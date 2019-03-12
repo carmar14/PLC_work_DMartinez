@@ -1,0 +1,2 @@
+.\sautomatica
+Automatica18*/
