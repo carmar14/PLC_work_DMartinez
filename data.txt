@@ -11,15 +11,8 @@ ELECTRICA
 
 
 
-- agregar al OPC verificacion direcciones IP.
-
-- agregar explicacion signal board verificacion.
-
-- como hacer un reset de fabrica.
-
 -variador de velocidad con pantalla tactil.
 
-- variador de velocidad wincc y analog.
 
 - scada con labview y pid compact en TIA.
 
